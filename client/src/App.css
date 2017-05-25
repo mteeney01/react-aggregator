@@ -1,0 +1,21 @@
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App a:hover {
+  text-decoration: underline;
+}
+
+.page-header {
+  text-align: center;
+}
+
+.content a.header.table-cell {
+  font-size: 1.5em;
+  padding: 10px;
+  display: table-cell !important;
+}
